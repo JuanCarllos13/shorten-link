@@ -6,7 +6,7 @@
   Projeto criado com o intuito de mostrar meus conhecimentos ao decorrer da minha carreira.
 </h4>
 
-![Resultado final do projeto](https://user-images.githubusercontent.com/86435195/152667040-114273ff-44ff-4186-879b-964dab106baf.png)
+![Resultado final do projeto](https://user-images.githubusercontent.com/86435195/152689966-fd2af7cd-24d2-4f33-8457-de5e13d135de.png)
 
 
 ## ❓ O que é? e como usar?
