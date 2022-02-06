@@ -8,6 +8,12 @@
 
 ![Resultado final do projeto](https://user-images.githubusercontent.com/86435195/152689966-fd2af7cd-24d2-4f33-8457-de5e13d135de.png)
 
+<h1 align="center">
+  <br>Segunda Tela
+</h1>
+
+![Resultado final do projeto](https://user-images.githubusercontent.com/86435195/152690029-34c0d3d1-51ed-474d-b88b-afc73561ef9d.png)
+
 
 ## ❓ O que é? e como usar?
 
